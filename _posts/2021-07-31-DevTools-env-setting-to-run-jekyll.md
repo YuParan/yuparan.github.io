@@ -10,8 +10,8 @@ comments: true
 ---
 
 ## 요약
-> rbenv 를 활용한 ruby 가상환경 세팅 및 jekyll & bundler 설치 <br/>
-> 로컬 환경에서 테스트를 위한 jekyll 블로그를 호스팅
+> rbenv 를 활용한 ruby 가상환경 세팅 및 jekyll & bundler 를 설치하고 <br/>
+> 로컬 환경에서 테스트를 위한 jekyll 블로그를 호스팅하는 방법에 대한 설명입니다.
 
 # Development Env Settings
 

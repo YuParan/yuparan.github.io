@@ -10,8 +10,8 @@ comments: true
 ---
 
 ## 요약
-> utterances 를 활용하여 
-> 깃허브 블로그 Repository 의 Issue 와 연동되는 덧글 상자 만들기
+> utterances 를 활용하여 깃허브 블로그 Repository 의 Issue 와 연동되는 덧글 상자를 만들어보자
+> ( DISQUS 보다 가볍고 광고도 없답니다! )
 
 # 사용 방법
 
